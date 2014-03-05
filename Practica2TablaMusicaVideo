@@ -1,0 +1,139 @@
+<!DOCRYPE html>
+<html>
+<body>
+
+<a href="http://www.w3.org/html/logo/">
+<img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
+</a>
+
+<head>
+<center>
+<body background="fondo.png" bgcolor="# 000000" text="#ffffff">
+</center>
+
+<meta name = "descripcion" content="Musica">
+<meta name = "keywords" content="html5,css3,javaScript" >
+</head>
+
+<table>
+<tr>
+<td><font color="white">Titulo</td>
+<td></td>
+<td></td>
+
+<td><font color="white">Artista</td>
+<td><font color="white">Cancion</td>
+
+</tr>
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+
+<tr>
+<td>Pumped Up Kicks</td>
+<td></td>
+<td></td>
+
+<td>Foster The People</td>
+<td><audio src="02 Pumped Up Kicks.m4a" controls autoplay loop> </audio>
+</td>
+</td>
+
+</table>
+
+<td></td>
+<td></td>
+
+<table>
+<tr>
+<td><video src="Guerra de Chistes La Gata, El Perro Guarumo y Guarumin.mp4" controls></video></td>
+<td><video src="Guerra de Chistes La Gata, El Perro Guarumo y Guarumin.mp4" controls> </video></td>
+</tr>
+
+<tr>
+<td><video src="Guerra de Chistes La Gata, El Perro Guarumo y Guarumin.mp4" controls> </video></td>
+<td><video src="Guerra de Chistes La Gata, El Perro Guarumo y Guarumin.mp4" controls> </video></td>
+</tr>
+
+
+
+
+<body>
+<html>
